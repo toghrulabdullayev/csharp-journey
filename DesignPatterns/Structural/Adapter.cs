@@ -1,7 +1,7 @@
-//? idea: Convert an incompatible interface into what your system expects.
+//* idea: Convert an incompatible interface into what your system expects.
 using System;
 
-namespace DesignPatterns
+namespace DesignPatterns.Structural
 {
 	class Adapter
 	{

@@ -1,7 +1,7 @@
-//? idea: Provide a simple interface over a complex subsystem
+//* idea: Provide a simple interface over a complex subsystem
 using System;
 
-namespace DesignPatterns
+namespace DesignPatterns.Structural
 {
 	class Facade
 	{

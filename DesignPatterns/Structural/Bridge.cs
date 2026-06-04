@@ -1,7 +1,7 @@
-//? idea: Separate abstraction and implementation so both can evolve independently
+//* idea: Separate abstraction and implementation so both can evolve independently
 using System;
 
-namespace DesignPatterns
+namespace DesignPatterns.Structural
 {
 	class Bridge
 	{
