@@ -2,6 +2,7 @@
 //? without exposing any instantiation logic to the client
 //* idea: A single place (method or class) that decides which object to create
 //* and returns it as a common interface/base type based on input.
+//! Unlike prototype, factory creates
 using System;
 
 namespace DesignPatterns.Creational
